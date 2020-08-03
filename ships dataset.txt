@@ -1,0 +1,10 @@
+to identify ships from satellite images dataset link:
+
+https://drive.google.com/drive/folders/1Dmuu5-yIY0QC_wUjRsPZG5INs3J41A9G?usp=sharing
+
+
+
+Dataset Link of kaggle website:
+
+https://www.kaggle.com/rhammell/ships-in-satellite-imagery/home
+  
